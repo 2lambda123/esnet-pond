@@ -4,7 +4,7 @@
     "private": true,
     "homepage": "http://software.es.net/pond",
     "dependencies": {
-        "bootstrap": "^3.4.1",
+        "bootstrap": "^5.3.3",
         "jest-cli": "^29.7.0",
         "lodash.clonedeep": "^4.5.0",
         "prismjs": "^1.8.1",
